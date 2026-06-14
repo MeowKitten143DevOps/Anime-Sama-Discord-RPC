@@ -12,7 +12,7 @@
 
     "content_scripts":[
         {
-         "matches":["https://aniworld.to/*", "https://www.crunchyroll.com/*"],
+         "matches":["https://aniworld.to/*", "https://www.crunchyroll.com/*", "https://anime-sama.to/*"],
          "js":["content.js"]
         }
     ],
