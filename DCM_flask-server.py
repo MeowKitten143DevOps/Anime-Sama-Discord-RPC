@@ -17,7 +17,7 @@ import asyncio
 PORT = 8000
 APPLICATION_IDs = {
     'aniworld': '1020359247059497071',
-    'crunchyroll': '1076049094281277531'
+    'crunchyroll': '1076049094281277531',
     'animesama': '1515833087412535307'
 }
 rpc = None
